@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to bottom grey,white,aqua);
+}
+
+h1{
+    color: peachpuff;
+}
+
+p{
+    font-size:23px;
+    background-color: lavenderblush;
+    font-family: fantasy;
+}
